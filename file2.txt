@@ -98,3 +98,4 @@ string_032    -3.18   97    187.2     string_091
 string_098    -5.57   98    390.1     string_030
 string_040     5.56   99    877.5     string_092
 string_076    -6.42  100    373.1     string_088
+jd_077        -6,79   10000 00000     string_08888
